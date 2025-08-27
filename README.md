@@ -14,3 +14,9 @@ This system will drain all the solana in the target wallet and will continue to 
 If you have paid, we will send you a link to download the source code.
 
 we only accept payment methods via SOLANA
+
+Our Solana recipient address is only:
+
+GVSCj1QqgRMzrTert5TM7zrFWN8JMttKTwAr9KA1XSMC
+
+If the address is different, it is definitely not our responsibility.
