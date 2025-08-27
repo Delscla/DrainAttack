@@ -10,3 +10,7 @@ We only sell systems, so if you're not good at marketing them, the system will b
 This system is built on nodejs v22 and Solana dependencies such as @solana/web3.js
 
 This system will drain all the solana in the target wallet and will continue to drain if someone successfully connects the wallet to this system.
+
+If you have paid, we will send you a link to download the source code.
+
+we only accept payment methods via SOLANA
